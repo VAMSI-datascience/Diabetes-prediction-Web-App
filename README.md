@@ -8,6 +8,6 @@ Deployed at:
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:
+• A glimpse of the web app:https://diabeticsprediction.herokuapp.com/
 
  ![GIF](readme_resources/diabetes-predictor-web-app.gif)
