@@ -8,9 +8,9 @@ Deployed at: Heroku
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:https://diabeticsprediction.herokuapp.com/
+• A glimpse of the web app: [Sample Diabetes App](https://diabeticsprediction.herokuapp.com/)
 
- ![GIF](readme_resources/diabetes-predictor-web-app.gif)
+ 
  
  + Diabetes Predictor - Deployment.py This file consists of the of the machine learning model and it is saved in the form of pickle file in order to develop the web-app
  + app.py ## This file consists of the flask framework where the web-app is built.
