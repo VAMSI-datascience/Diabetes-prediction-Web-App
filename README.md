@@ -16,3 +16,11 @@ Deployed at: Heroku
  + **app.py**  file consists of the flask framework where the web-app is built.
  + And the **templates** folder consists of the HTML files and the Static folder consists of the css file required for our web-app.
  + And there is a **requirements.txt** file where it contains all the dependencies and the procfile to confirm that it is the web gui.
+ 
+ ## Deployement on Heroku
+Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
