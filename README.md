@@ -8,7 +8,7 @@ Deployed at: Heroku
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app: [Sample Diabetes App](https://diabeticsprediction.herokuapp.com/)
+• A **glimpse** of the web app: [Sample Diabetes App](https://diabeticsprediction.herokuapp.com/)
 
  
  
